@@ -1,0 +1,28 @@
+{
+  "name": "purescript-smsapi",
+  "version": "0.1.0",
+  "description": "Set of simple bindings to npm's smsapi package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamczykm/purescript-smsapi.git"
+  },
+  "keywords": [
+    "purescript",
+    "smsapi",
+    "bindings",
+    "node"
+  ],
+  "author": "Michał Adamczyk <michal.anks@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamczykm/purescript-smsapi/issues"
+  },
+  "homepage": "https://github.com/adamczykm/purescript-smsapi#readme",
+  "dependencies": {
+    "smsapi": "^1.5.7"
+  }
+}
