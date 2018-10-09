@@ -6,8 +6,8 @@
   ],
   "homepage": "https://github.com/adamczykm/purescript-smsapi",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/adamczykm/purescript-smsapi.git"
+    "type": "git",
+    "url": "https://github.com/adamczykm/purescript-smsapi.git"
   },
   "license": "MIT",
   "keywords": [
@@ -25,7 +25,8 @@
   "dependencies": {
     "purescript-prelude": "^4.1.0",
     "purescript-console": "^4.1.0",
-    "purescript-effect": "^2.0.0"
+    "purescript-effect": "^2.0.0",
+    "purescript-aff": "^5.0.2"
   },
   "devDependencies": {
     "purescript-psci-support": "^4.0.0"
