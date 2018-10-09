@@ -5,6 +5,10 @@
     "Michał Adamczyk <michal.anks@gmail.com>"
   ],
   "homepage": "https://github.com/adamczykm/purescript-smsapi",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/adamczykm/purescript-smsapi.git"
+  },
   "license": "MIT",
   "keywords": [
     "purescript",
